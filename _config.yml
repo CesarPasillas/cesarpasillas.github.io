@@ -2,4 +2,4 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 title: Programmer Squirrel
 description: Programming Squirrel page 
-
+permalink: /programming-squirrel/home
